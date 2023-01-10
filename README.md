@@ -40,4 +40,4 @@ There is a follow-on course, also created by the Digital Skills team, which intr
 Finally dont forget that Lynda has a wealth of resources - here's [a playlist](https://www.lynda.com/SharedPlaylist/562f8107f9e34f5480689c57e657e637) with some follow-on courses which overap with and extend the material of this course.
 
 ## Authors
-git remote add origin https://github.com/PatrickKinnear/python-intro.git
+This course was developed by Ignat Georgiev and Patrick Kinnear from the Digital Skills team at Information Services at the University of Edinburgh.
